@@ -1,0 +1,20 @@
+{MT Test1
+"title":"MT Test1",
+"onScreen":{
+"main":[
+"[TOOL][123:'][][][MT:dqu/d][][][][MT:pkl*l][][][][MT:t-t][][][]",
+"[MT:cr7r][MT:gm8m][MT:wo9o][SPACE]",
+"[MT:zbf4f][MT:yi5i][MT:n6n][DEL]",
+"[MT:ah1a][MT:vje2e][MT:xs3s][SHIFT]",
+"[TAB][ALTGR:0][SYM:.][ENTER]"
+],
+
+"num":[
+"[TOOL][][MT:/dqu/][][MT:*pkl*][][MT:-t-][]",
+"[MT:7cr7][MT:8gm8][MT:9wo9]+",
+"[MT:4zbf4][MT:5yi5][MT:6n6][DEL]",
+"[MT:1ah1][MT:2vje2][MT:3xs3][SHIFT]",
+"[ALTGR:0][][SYM:.][ENTER]"
+]
+}
+}
