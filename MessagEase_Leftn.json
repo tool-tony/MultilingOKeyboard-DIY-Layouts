@@ -1,0 +1,39 @@
+{
+"title":"MessagEase_Leftn",
+"onScreen":{
+"main":[
+"[4D:aæ[ALTGR]-[MC:and:][CAPS][MC:with]v$][][4D:n+^!l`´\\/][][4D:i?[SYM][MC:that]=[MC:in:]§€x][][4D:[HIDE][Left][Up][Right][Down][HOME][END][W.RIGHT][W.LEFT]]",
+"[4D:h( k {%_[][][4D:ocubd[MC:qu:]pjg][][4D:rm[SHIFT])[MC:tion]|}[RB]@][][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][VOICE][VOICE]]",
+"[4D:t<¨*[MC:the:]~y[TAB]][][4D:eœwz.\"':,][][4D:s#&>[MC:of:]f°[MC:[3+2[Colon][RB][Left]:3+2];][][4D:[DEL][WDEL] [FDEL] [MC:[SHIFT][HOME][WDEL]:|«][MC:[SHIFT][END][WDEL]:»|]]",
+"[TOOL][SPACE][][][][][][][][4D:[ENTER]    [EMOJI][EMOJI]][]"
+],
+
+"altGr":[
+"¸ˉ˜ˋ´ˇ´˚¨[4D:[HIDE][Left][Up][Right][Down]][][]",
+" ´  ¨  ˙ [4D:[MC:[LOCK]:ABC][UNDO][COPY][REDO][PASTE][CUT][ALL][VOICE][VOICE]][][]",
+" ˚  ˜  ˆ [4D:[DEL][WDEL] [FDEL] [MC:[SHIFT][HOME][WDEL]:|«][MC:[SHIFT][END][WDEL]:»|]][][]",
+"[TOOL][SHIFT][][][][][][][][4D:[ENTER]    [EMOJI][EMOJI]][][]"
+],
+
+"num":[
+"[4D:7 [ALTGR]- [CAPS]  $][][4D:8+^! `´\\/][][4D:9?[SYM] = §€][][4D:[HIDE][Left][Up][Right][Down]]",
+"[4D:4(   {%_[][][4D:5][][4D:6 [SPACE]) |}[RB]@][][4D:[MC:[LOCK]:ABC][UNDO][COPY][REDO][PASTE][CUT][ALL][VOICE][VOICE]]",
+"[4D:1<¨* ~ [TAB]][][4D:2   .\"':,][][4D:3#&>  ° ;][][4D:[DEL][WDEL] [FDEL] [MC:[SHIFT][HOME][WDEL]:|«][MC:[SHIFT][END][WDEL]:»|]]",
+"[TOOL][CO:1][MC:0:][][][][][CO:0][ALTGR:.][][][4D:[ENTER]    [EMOJI][EMOJI]][]"
+],
+
+"shifted":[
+"[4D:AÆ[ALTGR]-[MC:And:][CAPS][MC:With]V$][][4D:N+^!L`´\\/][][4D:I?[SYM][MC:That]=[MC:In:]§€X][][4D:[HIDE][Left][Up][Right][Down]]",
+"[4D:H( K {%_[][][4D:OCUBD[MC:Qu:]PJG][][4D:RM[MC:[CAPS]:⟰])[MC:[SHIFT]:⟱]|}[RB]@][][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][VOICE][VOICE]]",
+"[4D:T<¨*[MC:The:]~Y[TAB]][][4D:EŒWZ.\"':,][][4D:S#&>[MC:Of]F° ;][][4D:[DEL][WDEL] [FDEL] [MC:[SHIFT][HOME][WDEL]:|«][MC:[SHIFT][END][WDEL]:»|]]",
+"[TOOL][SPACE][][][][][][][][4D:[ENTER]    [EMOJI][EMOJI]][]"
+],
+
+"shiftedAuto":[
+"[4D:AÆ[ALTGR]-[MC:And:][CAPS][MC:With]V$][][4D:N+^!L`´\\/][][4D:I?[SYM][MC:That]=[MC:In:]§€X][][4D:[HIDE][Left][Up][Right][Down]]",
+"[4D:H( K {%_[][][4D:OCUBD[MC:Qu:]PJG][][4D:RM[MC:[CAPS]:⟰])[Tool]|}[RB]@][][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][VOICE][VOICE]]",
+"[4D:T<¨*[MC:The:]~Y[TAB]][][4D:EŒWZ.\"':,][][4D:S#&>[MC:Of]F° ;][][4D:[DEL][WDEL] [FDEL] [MC:[SHIFT][HOME][WDEL]:|«][MC:[SHIFT][END][WDEL]:»|]]",
+"[TOOL][SPACE][][][][][][][][4D:[ENTER]    [EMOJI][EMOJI]][]"
+]
+}
+}
