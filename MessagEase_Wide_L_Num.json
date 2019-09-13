@@ -1,0 +1,25 @@
+{
+"title":"MessagEase_Wide_L_Num",
+"onScreen":{
+"main":[
+"[4D:aæ[ALTGR]- [CAPS] v$][4D:n+^!l`´\\/][4D:i?[SYM] = §€x][4D:[HIDE][Left][Up][Right][Down]][4D:aæ[ALTGR]- [CAPS] v$][4D:n+^!l`´\\/][4D:i?[SYM] = §€x]",
+"[4D:h( k {%_[][4D:ocubd[MC:qu:]pjg][4D:rm[SHIFT]) |}[RB]@][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL]][4D:h( k {%_[][4D:ocubd[MC:qu:]pjg][4D:rm[SHIFT]) |}[RB]@]",
+"[4D:t<¨* ~y[TAB][MC:[RIGHT][ENTER][PAUSE][RIGHT][ENTER][PAUSE][RIGHT][ENTER]:>]][4D:eœwz.\"':,][4D:s#&> f° ;][4D:[DEL][WDEL] [FDEL]][4D:t<¨* ~y[TAB][MC:[RIGHT][ENTER][PAUSE][RIGHT][ENTER][PAUSE][RIGHT][ENTER]:>]][4D:eœwz.\"':,][4D:s#&> f° ;]",
+"[TOOL][SPACE][][][][][][][ENTER][][][SPACE][][][][][][][]"
+],
+
+"num":[
+"[4D:7 [ALTGR]- [CAPS]  $][4D:8+^! `´\\/][4D:9?[SYM] = §€][4D:[HIDE][Left][Up][Right][Down]][4D:aæ[ALTGR]- [CAPS] v$][4D:n+^!l`´\\/][4D:i?[SYM] = §€x]",
+"[4D:4(   {%_[][4D:5][4D:6 [SPACE]) |}[RB]@][4D:[MC:[LOCK]:ABC][UNDO][COPY][REDO][PASTE][CUT][ALL]][4D:h( k {%_[][4D:ocubd[MC:qu:]pjg][4D:rm[SHIFT]) |}[RB]@]",
+"[4D:1<¨* ~ [TAB]][4D:2   .\"':,][4D:3#&>  ° ;][4D:[DEL][WDEL] [FDEL]][4D:t<¨* ~y[TAB][MC:[RIGHT][ENTER][PAUSE][RIGHT][ENTER][PAUSE][RIGHT][ENTER]:>]][4D:eœwz.\"':,][4D:s#&> f° ;]",
+"[TOOL][CO:1][MC:0:][][][][CO:0][ALTGR:.][][][ENTER][][][SPACE][][][][][][][]"
+],
+
+"shifted":[
+"[4D:AÆ[ALTGR]- [CAPS] V$][4D:N+^!L`´\\/][4D:I?[SYM] = §€X][4D:[HIDE][Left][Up][Right][Down]][4D:AÆ[ALTGR]- [CAPS] V$][4D:N+^!L`´\\/][4D:I?[SYM] = §€X]",
+"[4D:H( K {%_[][4D:OCUBD[MC:Qu:]PJG][4D:RM[LOCK])[SHIFT]|}[RB]@][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL]][4D:H( K {%_[][4D:OCUBD[MC:Qu:]PJG][4D:RM[SHIFT]) |}[RB]@]",
+"[4D:T<¨* ~Y[TAB]][4D:EŒWZ.\"':,][4D:S#&> F° ;][4D:[DEL][WDEL] [FDEL]][4D:T<¨* ~Y[TAB][MC:[RIGHT][ENTER][PAUSE][RIGHT][ENTER][PAUSE][RIGHT][ENTER]:>]][4D:EŒWZ.\"':,][4D:S#&> F° ;]",
+"[TOOL][SPACE][][][][][][][ENTER][][][SPACE][][][][][][][]"
+]
+}
+}
