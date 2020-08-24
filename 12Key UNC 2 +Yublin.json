@@ -1,0 +1,42 @@
+{
+"title":"12Key UNC 2 +Yublin",
+"onScreen":{
+"main":[
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:,hv[MC:1][MC:that][MC:! ][SPACE][MC:have][MC:`]][3+2:,ej[MC:2][MC:her][MC:@][SPACE][MC:this][MC:\"]][3+2:,ry[MC:3][MC:from][MC:#][SPACE][MC:you][MC:_]][4D:-/+*=[MC:.edu][MC:.com][MC:.gov][MC:.org]]",
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:kt.[MC:4][MC:the][MC:$][SPACE][MC:~][MC:they]][3+2:pi.[MC:5][MC:his][MC:%][SPACE][MC:{][MC:were]][3+2:qs.[MC:6][MC:she][MC:^][SPACE][MC:}][MC:would]][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][EMOJI][COLON]]",
+"[SHIFT][3+2:,dx[MC:7][MC:had][MC:&][SPACE][MC:when][MC:<]][3+2:bn.[MC:8][MC:and][MC:;][SPACE][MC:>][MC:with]][3+2:,aw[MC:9][MC:[RB]][MC:? ][SPACE][MC:was][MC:[LB]]][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][CO:0]",
+"[SPACE][TOOL][][3+2:lo.[MC:(][MC:not][ALTGR][SPACE][MC:\\][MC:all]][][][3+2:gum[MC:0][MC:but][MC:|][SPACE][MC:him][MC:which]][][][3+2:cfz[MC:)][MC:for][SYM][SPACE][MC:what][MC:said]][][][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][][][CO:0]"
+],
+
+"sym":[
+"£¥€$%^&*()№÷√",
+"~`{}\\_-=|+§∷†",
+"@[]#±/÷'\"«»—‡",
+"[SHIFT]…<>!;:?‹›.,[DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+],
+
+"altGr":[
+"\"¯`ˇ´¨˙˚¸﹐˛˘˜ˆ",
+"―∑éə®†Ωœøπ•·",
+"æß∂ðƒ©ªº∆≠ĸ∞",
+"[SHIFT]ʒΩ≈çþ∫ŋµ≤≥[DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+],
+
+"shifted":[
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:,HV[MC:1][MC:That][MC:! ][SPACE][MC:Have][MC:`]][3+2:,EJ[MC:2][MC:Her][MC:@][SPACE][MC:This][MC:\"]][3+2:,RY[MC:3][MC:From][MC:#][SPACE][MC:You][MC:_]][4D:-/+*=[MC:.edu][MC:.com][MC:.gov][MC:.org]]",
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:KT.[MC:4][MC:The][MC:$][SPACE][MC:~][MC:They]][3+2:PI.[MC:5][MC:His][MC:%][SPACE][MC:{][MC:Were]][3+2:QS.[MC:6][MC:She][MC:^][SPACE][MC:}][MC:Would]][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][EMOJI][COLON]]",
+"[SHIFT][3+2:,DX[MC:7][MC:Had][MC:&][SPACE][MC:When][MC:<]][3+2:BN.[MC:8][MC:And][MC:;][SPACE][MC:>][MC:With]][3+2:,AW[MC:9][MC:[RB]][MC:? ][SPACE][MC:Was][MC:[LB]]][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][CO:0]",
+"[TOOL][3+2:LO.[MC:(][MC:Not][ALTGR][SPACE][MC:\\][MC:All]][3+2:GUM[MC:0][MC:But][MC:|][SPACE][MC:Him][MC:Which]][3+2:CFZ[MC:)][MC:For][SYM][SPACE][MC:What][MC:Said]][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][CO:0]"
+],
+
+"shiftedAuto":[
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:,HV[MC:1][MC:That][MC:! ][SPACE][MC:Have][MC:`]][3+2:,EJ[MC:2][MC:Her][MC:@][SPACE][MC:This][MC:\"]][3+2:,RY[MC:3][MC:From][MC:#][SPACE][MC:You][MC:_]][4D:-/+*=[MC:.edu][MC:.com][MC:.gov][MC:.org]]",
+"[4D:[CAPS][LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][3+2:KT.[MC:4][MC:The][MC:$][SPACE][MC:~][MC:They]][3+2:PI.[MC:5][MC:His][MC:%][SPACE][MC:{][MC:Were]][3+2:QS.[MC:6][MC:She][MC:^][SPACE][MC:}][MC:Would]][4D:[123][UNDO][COPY][REDO][PASTE][CUT][ALL][EMOJI][COLON]]",
+"[SHIFT][3+2:,DX[MC:7][MC:Had][MC:&][SPACE][MC:When][MC:<]][3+2:BN.[MC:8][MC:And][MC:;][SPACE][MC:>][MC:With]][3+2:,AW[MC:9][MC:[RB]][MC:? ][SPACE][MC:Was][MC:[LB]]][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][CO:0]",
+"[TOOL][3+2:LO.[MC:(][MC:Not][ALTGR][SPACE][MC:\\][MC:All]][3+2:GUM[MC:0][MC:But][MC:|][SPACE][MC:Him][MC:Which]][3+2:CFZ[MC:)][MC:For][SYM][SPACE][MC:What][MC:Said]][CO:2][4D:[MC:[ENTER]:↲][DEL][WDEL][FDEL] [MC:[SHIFT][HOME][DEL]:|«][MC:[SHIFT][END][DEL]:»|]][CO:0]"
+]
+}
+}
+    
