@@ -1,0 +1,39 @@
+{
+"title":"Look Away Wide",
+"onScreen":{
+"main":[
+"[4D:a[123]'fd[Caps]btc][][4D:iy[MC:tion]wl[ALTGR][Enter][SYM]e][] [4D:a[123]'fd[Caps]btc][][4D:iy[MC:tion]wl[ALTGR][Enter][SYM]e][]",
+"[4D:ozgmn[MC:qu]kv[Del]][][4D:ur[Shift]jxhs[Space]p][] [4D:ozgmn[MC:qu]kv[Del]][][4D:ur[Shift]jxhs[Space]p][]",
+"[Tool][Space][][][][][][][4D:[ENTER][UNDO][COPY][REDO][PASTE][CUT][ALL]-.][][][][Space][][][][][][][]"
+],
+
+"sym":[
+"£¥€$%^&*()№÷√",
+"~`{}\\_-=|+§∷†",
+"@[]#±/÷'\"«»—‡",
+"[SHIFT]…<>!;:?‹›.,[DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+],
+
+"altGr":[
+"\"¯`ˇ´¨˙˚¸﹐˛˘˜ˆ",
+"―∑éə®†Ωœøπ•·",
+"æß∂ðƒ©ªº∆≠ĸ∞",
+"[SHIFT]ʒΩ≈çþ∫ŋµ≤≥[DEL]",
+"[LOCK][ALTGR:,][SPACE][][][SYM:.][ENTER]"
+],
+
+"num":[
+"[3+2:123+*[MC:[LOCK]:ABC]%)(][][3+2:456-/[ALTGR][ENTER][SYM]^][] [3+2:123+*[MC:[LOCK]:ABC]%)(][][3+2:456-/[ALTGR][ENTER][SYM]^][]",
+"[3+2:789.$[LB][RB]@[DEL]][][4D:0[LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][] [3+2:789.$[LB][RB]@[DEL]][][4D:0[LEFT][UP][RIGHT][DOWN][HOME][END][W.RIGHT][W.LEFT]][]",
+"[LOCK][SPACE][][][][][][][4D:[ENTER][UNDO][COPY][REDO][PASTE][CUT][ALL],.][][][][Space][][][][][][][]"
+],
+
+"shifted":[
+"[4D:A[COLON]\"FD[Caps]BTC][][4D:IY[MC:lagotj]WL@[Enter]/E][] [4D:A[COLON]\"FD[Caps]BTC][][4D:IY[MC:lagotj]WL@[Enter]/E][]",
+"[4D:OZGMN[MC:Qu]KV[WDel]][][4D:UR[Shift]JXHS[FDEL]P][] [4D:OZGMN[MC:Qu]KV[WDel]][][4D:UR[Shift]JXHS[FDEL]P][]",
+"[Tool][Space][][][][][][][4D:[ENTER][UNDO][COPY][REDO][PASTE][CUT][ALL]_,][][][][Space][][][][][][][]"
+]
+}
+}
+    
